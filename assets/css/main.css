@@ -1984,8 +1984,8 @@ input, select, textarea {
 			input[type="reset"].primary:active,
 			input[type="button"].primary:active,
 			button.primary:active,
-			.button.primary:active {
-				background-color: #3089e2;
+			.button.primary:active {c
+				background-color: #000;
 			}
 
 /* Form */
@@ -3619,7 +3619,7 @@ input, select, textarea {
 		#header button,
 		#header .button {
 			background-color: transparent;
-			color: #ffffff !important;
+			color: #000 !important;
 			box-shadow: inset 0 0 0 2px rgba(255, 255, 255, 0.25);
 		}
 
