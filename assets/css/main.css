@@ -3645,7 +3645,7 @@ input, select, textarea {
 			#header button.primary,
 			#header .button.primary {
 				box-shadow: none;
-				background-color: #ffffff;
+				background-color: ##2d2a2a;
 				color: #fff !important;
 			}
 
@@ -3689,7 +3689,7 @@ input, select, textarea {
 
 		#header input[type="checkbox"]:checked + label:before,
 		#header input[type="radio"]:checked + label:before {
-			background-color: #ffffff;
+			background-color: ##2d2a2a;
 			border-color: #ffffff;
 			color: #fff;
 		}
