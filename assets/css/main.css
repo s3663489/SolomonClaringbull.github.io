@@ -325,7 +325,7 @@ input, select, textarea {
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: #000;
+		color: #fff;
 	}
 
 	blockquote {
@@ -2898,7 +2898,7 @@ input, select, textarea {
 	.wrapper {
 		padding: 4.5em 0 2.5em 0 ;
 		background-color: #2d2a2a;
-		border-bottom: solid 2px #eeeeee;
+		border-bottom: solid 2px #2d2a2a;
 	}
 
 		.wrapper > .inner {
@@ -3591,7 +3591,7 @@ input, select, textarea {
 
 	#header {
 		background-color: ##2d2a2a;
-		color: #fff;
+		color: #2d2a2a;
 		padding: 4.5em 0 2.5em 0 ;
 		-moz-align-items: center;
 		-webkit-align-items: center;
