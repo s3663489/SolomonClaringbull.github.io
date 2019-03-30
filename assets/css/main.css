@@ -1968,8 +1968,8 @@ input, select, textarea {
 		button.primary,
 		.button.primary {
 			box-shadow: none;
-			background-color: #4696e5;
-			color: #ffffff !important;
+			background-color: #fff;
+			color: #000 !important;
 		}
 
 			input[type="submit"].primary:hover,
