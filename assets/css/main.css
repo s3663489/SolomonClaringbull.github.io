@@ -2897,8 +2897,8 @@ input, select, textarea {
 
 	.wrapper {
 		padding: 4.5em 0 2.5em 0 ;
-		background-color: #2d2a2a;
-		border-bottom: solid 2px #2d2a2a;
+		background-color: #fffff;
+		border-bottom: solid 2px #fffff;
 	}
 
 		.wrapper > .inner {
