@@ -325,7 +325,7 @@ input, select, textarea {
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: #fff;
+		color: #000;
 	}
 
 	blockquote {
@@ -3590,8 +3590,8 @@ input, select, textarea {
 /* Header */
 
 	#header {
-		background-color: #fff;
-		color: #d1e5f9;
+		background-color: ##2d2a2a;
+		color: #fff;
 		padding: 4.5em 0 2.5em 0 ;
 		-moz-align-items: center;
 		-webkit-align-items: center;
