@@ -325,7 +325,7 @@ input, select, textarea {
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: #828282;
+		color: #fff;
 	}
 
 	blockquote {
@@ -2897,7 +2897,7 @@ input, select, textarea {
 
 	.wrapper {
 		padding: 4.5em 0 2.5em 0 ;
-		background-color: #ffffff;
+		background-color: #2d2a2a;
 		border-bottom: solid 2px #eeeeee;
 	}
 
