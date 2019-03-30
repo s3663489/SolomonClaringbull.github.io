@@ -115,7 +115,7 @@ input, select, textarea {
 /* Type */
 
 	body {
-		color: #000;
+		color: #fff;
 	}
 
 	html, input, select, textarea {
@@ -317,7 +317,7 @@ input, select, textarea {
 	}
 
 		a:hover {
-			color: #4696e5;
+			color: #000;
 		}
 
 	strong, b {
