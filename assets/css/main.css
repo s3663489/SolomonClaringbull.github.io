@@ -317,7 +317,7 @@ input, select, textarea {
 	}
 
 		a:hover {
-			color: #000;
+			color: #fff;
 		}
 
 	strong, b {
@@ -1969,7 +1969,7 @@ input, select, textarea {
 		.button.primary {
 			box-shadow: none;
 			background-color: #fff;
-			color: #000 !important;
+			color: #fffff !important;
 		}
 
 			input[type="submit"].primary:hover,
@@ -1985,7 +1985,7 @@ input, select, textarea {
 			input[type="button"].primary:active,
 			button.primary:active,
 			.button.primary:active {c
-				background-color: #000;
+				background-color: #ffff;
 			}
 
 /* Form */
@@ -2191,7 +2191,7 @@ input, select, textarea {
 	input[type="radio"]:checked + label:before {
 		background-color: #fff;
 		border-color: #fff;
-		color: #000;
+		color: #fffff;
 	}
 
 	input[type="checkbox"]:focus + label:before,
@@ -3214,7 +3214,7 @@ input, select, textarea {
 			.wrapper.style2 input[type="radio"]:checked + label:before {
 				background-color: #fff;
 				border-color: #fff;
-				color: #000;
+				color: #fffff;
 			}
 
 			.wrapper.style2 input[type="checkbox"]:focus + label:before,
@@ -3367,7 +3367,7 @@ input, select, textarea {
 				.wrapper.style3 .button.primary {
 					box-shadow: none;
 					background-color: #fff;
-					color: #000 !important;
+					color: #fff !important;
 				}
 
 					.wrapper.style3 input[type="submit"].primary:hover,
@@ -3428,7 +3428,7 @@ input, select, textarea {
 			.wrapper.style3 input[type="radio"]:checked + label:before {
 				background-color: #fffff;
 				border-color: #fffff;
-				color: #000;
+				color: #fffff;
 			}
 
 			.wrapper.style3 input[type="checkbox"]:focus + label:before,
@@ -3619,7 +3619,7 @@ input, select, textarea {
 		#header button,
 		#header .button {
 			background-color: transparent;
-			color: #000 !important;
+			color: #fffff !important;
 			box-shadow: inset 0 0 0 2px rgba(255, 255, 255, 0.25);
 		}
 
