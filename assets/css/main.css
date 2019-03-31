@@ -2248,13 +2248,7 @@ input, select, textarea {
 
 /* Image */
 
-	.image {
-		border-radius: 6px;
-		border: 0;
-		display: inline-block;
-		position: relative;
-		overflow: hidden;
-	}
+	
 
 		.image img {
 			border-radius: 6px;
@@ -2368,9 +2362,7 @@ input, select, textarea {
 		box-shadow: 0 0 0 4px #ffffff, 0 0 0 5px #e6e6e6;
 	}
 
-		.image.phone {
-			box-shadow: none;
-		}
+		
 
 			.image.phone .inner, .image.phone:before, .image.phone:after {
 				border-color: #e6e6e6;
